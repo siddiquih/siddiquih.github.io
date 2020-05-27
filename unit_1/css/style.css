@@ -1,6 +1,9 @@
+image {
+	width: 100%;
+	height: auto;
+}
 body {
 	background-color: green;
-	width: 100px;
 }
 
 h1, p {
