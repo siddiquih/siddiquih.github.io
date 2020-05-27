@@ -6,9 +6,3 @@ body {
 h1, p {
 	color: silver;
 }
-
-div {
-
-	text-align: justify;
-	text-justify: inter-word;
-}
