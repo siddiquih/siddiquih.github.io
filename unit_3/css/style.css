@@ -19,12 +19,33 @@ p {
 	color: rgb(0,0,0);
 }
 
-img {
+.img-cheetah {
   display: block;
   margin-right: auto;
   margin-left: auto;
   border-radius: 50%;
   width: 15%;
+}
+
+.img-giraffe {
+  float: left;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+.img-baboon {
+  float: left;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+.img-buffalo {
+  float: left;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
 }
 
 h2{
