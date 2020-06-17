@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Mystery+Quest&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
 body{
   background-image: url("https://i.imgur.com/ZlgZaHS.png");
   background-size: 35%;
 }
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Mystery+Quest&display=swap');
 h1 {
   font-size: 45px;
   font-family: 'India Flower', cursive, serif;
