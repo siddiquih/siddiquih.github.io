@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Mystery+Quest&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+
+section.intro {
+  background: url("image/africamap.jpg"), #5ba0c7;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+  padding: 5em 0;
+}
+
+.sign {
+  display: block;
+  margin: 0px auto;
+  width: 10%;
+}
+
+body {
+  font-size: 10px;
+  text-align: justify;
+}
+
+div {
+  position: relative;
+  border: 2px solid #006400;
+}
+
+h1 {
+  font-family: 'Metal Mania', cursive;
+  font-size: 50px;
+  font-weight: 200;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+p {
+  font-style: sans-serif;
+  font-size: 2.0em;
+  margin-top: 20px;
+}
+
+img {
+  float: justify;
+  width: 30%;
+}
+
+
+article {
+  border-top: green;
+  display: block;
+}
+
+ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
+
+footer {
+  font-size: 20px;
+  text-align: center;
+  padding: 1em 0;
+}
+
+
